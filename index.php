@@ -3,7 +3,7 @@
 <div class='minimize' title='Miminize this box'>x</div>
 <img class='gift' src='../img/hundar/hund-19.jpg' alt='' width='100' />
 <h1 class='gift'>Klicka för att se Lightboxen</h1>
-<h1 class='example'>Plugin</h1>
+<h1 class='example'>Lightbox</h1>
 <img class= 'example lightbox' src='img/hundar/hund-1.jpg' alt='' height='54' />
 <img class= 'example lightbox' src='img/hundar/hund-2.jpg' alt='' height='54' />
 <img class= 'example lightbox' src='img/hundar/hund-3.jpg' alt='' height='54' />
